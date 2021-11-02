@@ -10,7 +10,7 @@ We expect your assignment to include
 
 * The resulting data from the task in JSON format. (or more like an array of JSON objects)
 * Python code/script that retrived the data and produced the JSON file
-* Written text (.md, .txt or .docx) that explains how you would automate this code and how/where you would store the data it gathers. If you plan to include cloud services in your answer, you can use AWS services as an example
+* Written text (.md, .txt or .docx) that explains how you would automate this code and how/where you would store the data it gathers. If you plan to include cloud services in your answer, you can use AWS services as an example. You can also draw some diagrams to support your answer.
 
 You can send these in a zip file or provide a Github Repository to the email address you are provided with.
 
