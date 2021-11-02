@@ -24,4 +24,4 @@ Save all information on the html table and produce an array of JSON objects wher
 
 ## Extra task if you still have time
 
-Scout the internet and attach the Taiwanese water level station locations to the measurements. Can be a static file or code how to retrieve them. 
+Scout the internet and attach the Taiwanese water level station locations to the measurements. For locations get the latitude and longitude of each station. Can be a static file or code how to retrieve them. 
